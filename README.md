@@ -15,7 +15,7 @@ This project shows the necessary process to use a **Raspberry PI 3** as a **Chro
 
 #### QUICK Setup (Ethernet connection necessary)
 
-1) Just donwnload the already baked SD Card image in: [link](www.google.com)
+1) Just donwnload the already baked SD Card image in: [link](https://drive.google.com/file/d/1Crr6sQo4ctdwvLYwC_VjfvZpphWRlgVF/view?usp=sharing)
 2) Download ETCHER to burn de image into SD Card: [link](https://etcher.io/)
 3) Burn the image into SD Card.
 4) Connect the Raspberry to TV via HDMI and to network via Ethernet Cable.
@@ -60,4 +60,14 @@ sudo apt-get dist-upgrade
 
 13) Wait for 1 minute and try to connect again, this time typing: ssh pi@raspotifycast.local
 
-14) Continue...
+14) Install **Raspotify**: 'curl -sL https://dtcooper.github.io/raspotify/install.sh | sh'
+
+15) Install **Git**: 'sudo apt-get install git'
+
+16) Clone **OpenMAX Image Viewer**: 'cd ~ && git clone https://github.com/HaarigerHarald/omxiv.git'
+
+17) Install necessary packages: 'sudo apt-get install libjpeg8-dev libpng12-dev'
+
+17) Build & Install it: 'cd omxiv && make ilclient && make && sudo make install'
+
+18) 
