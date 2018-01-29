@@ -70,6 +70,12 @@ sudo apt-get dist-upgrade
 
 17) Build & Install it: 'cd omxiv && make ilclient && make && sudo make install'
 
+18) Install "FEH" if you want to have a pictures slideshow. 'sudo apt-get install feh'
+
+19) Install "Screensaver": 'sudo apt-get install xscreensaver'
+
+20) Run the slideshow stored in "media" folder: 'feh -Y -x -q -D 5 -B black -F -Z -z -r /media/'
+
 18) Reboot & Ready!!
 
 
