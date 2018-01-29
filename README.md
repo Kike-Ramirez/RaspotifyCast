@@ -26,7 +26,7 @@ Still under work.
 
 #### MANUAL Setup (Ethernet or Wifi)
 
-1) Download Raspbian-Lite Image: [Raspbian-Lite](https://downloads.raspberrypi.org/raspbian_lite_latest)
+1) Download Raspbian-Stretch with Desktop Image: [Raspbian-Stretch](https://downloads.raspberrypi.org/raspbian_latest)
 2) Download ETCHER to burn de image into SD Card: [link](https://etcher.io/)
 3) Burn the image into SD Card.
 4) Open the SD Card in your machine and open **Boot** partition.
@@ -46,7 +46,7 @@ sudo apt-get dist-upgrade
   
   ![raspi-localization](images/raspi-config_localization.png)
   
-  b. Change Boot settings to "Command Line with user Password".
+  b. Change Boot settings to "Desktop with autologin".
   
   ![raspi-boot](images/raspi-config_boot.png)
   
