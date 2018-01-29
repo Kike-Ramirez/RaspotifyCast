@@ -70,4 +70,16 @@ sudo apt-get dist-upgrade
 
 17) Build & Install it: 'cd omxiv && make ilclient && make && sudo make install'
 
-18) 
+18) Reboot & Ready!!
+
+
+## PART 2: INSTALLING THE APP IN YOUR ANDROID PHONE
+
+1) Go to **Google Play Store** and download [RaspiCast](https://play.google.com/store/apps/details?id=at.huber.raspicast&hl=es)
+
+2) Open it.
+
+3) Go to Settings and set following parameters:
+
+4) You should be able to send content to your TV via RaspotifyCast!
+
