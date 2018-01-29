@@ -53,3 +53,11 @@ sudo apt-get dist-upgrade
   c. Enter in advance settings and expand filesystem to the whole SD Card.
   
   ![raspi-expand](images/raspi-config_expad.png)
+  
+  d. Enter in network options and change "Hostname" to **RaspotifyCast".
+  
+12) Reboot. Type 'sudo reboot'.
+
+13) Wait for 1 minute and try to connect again, this time typing: ssh pi@raspotifycast.local
+
+14) Continue...
