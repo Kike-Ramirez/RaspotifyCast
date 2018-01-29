@@ -41,6 +41,7 @@ sudo apt-get upgrade
 sudo apt-get dist-upgrade
 
 11) Change Raspberry settings via **Raspi-Config**. Type: 'sudo raspi-config'.
+
   a. Change Localization settings to your country.
   
   ![raspi-localization](images/raspi-config_localization.png)
