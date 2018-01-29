@@ -24,3 +24,7 @@ This project shows the necessary process to use a **Raspberry PI 3** as a **Chro
 1) Download Raspbian-Lite Image: [Raspbian-Lite](https://downloads.raspberrypi.org/raspbian_lite_latest)
 2) Download ETCHER to burn de image into SD Card: [link](https://etcher.io/)
 3) Burn the image into SD Card.
+4) Open the SD Card in your machine and open 'Boot' partition.
+5) Add an empty file called 'ssh' and save it.
+6) Download the file "wpa_supplicant.conf" from: [link](files/wpasupplicant.conf).
+7) Edit "wpa_supplicant.conf" setting your WIFI network parameters 'SSID_NAME" and "PASSWORD" and save it in 'Boot' partition.
