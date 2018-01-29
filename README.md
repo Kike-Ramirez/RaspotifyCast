@@ -43,12 +43,12 @@ sudo apt-get dist-upgrade
 11) Change Raspberry settings via **Raspi-Config**. Type: 'sudo raspi-config'.
   a. Change Localization settings to your country.
   
-  [raspi-localization](images/raspi-config_localization.png)
+  ![raspi-localization](images/raspi-config_localization.png)
   
   b. Change Boot settings to "Command Line with user Password".
   
-  [raspi-boot](images/raspi-config_boot.png)
+  ![raspi-boot](images/raspi-config_boot.png)
   
   c. Enter in advance settings and expand filesystem to the whole SD Card.
   
-  [raspi-expand](images/raspi-config_expad.png)
+  ![raspi-expand](images/raspi-config_expad.png)
