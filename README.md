@@ -1,11 +1,11 @@
-### RaspotifyCast
+# RaspotifyCast
 
 ![RaspotifyCast](images/RaspotifyCast.jpg)
 
 ## Description
 This project shows the necessary process to use a **Raspberry PI 3** as a **ChromeCast** + **Spotify** client.
 
-## Necessary packages:
+## Necessary packages & acknowledges:
 
 1) [RaspiCast](https://play.google.com/store/apps/details?id=at.huber.raspicast&hl=es)
 2) [OMXV](git clone https://github.com/HaarigerHarald/omxiv)
