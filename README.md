@@ -86,16 +86,16 @@ sudo apt-get dist-upgrade
 
 1) Go to **Google Play Store** and download [RaspiCast](https://play.google.com/store/apps/details?id=at.huber.raspicast&hl=es)
 
-<p align="center" width="360" height="640">
-  <img src="images/PlayStore_RaspiCast.png">
+<p align="center">
+  <img src="images/PlayStore_RaspiCast.png" width="360" height="640">
 </p>
 
 2) Open it.
 
 3) Go to Settings and set following parameters:
 
-<p align="center" width="360" height="640">
-  <img src="images/RaspiCast_settings.png">
+<p align="center">
+  <img src="images/RaspiCast_settings.png" width="360" height="640">
 </p>
 
 4) You should be able to send content to your TV via RaspotifyCast!
