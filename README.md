@@ -46,16 +46,22 @@ sudo apt-get dist-upgrade
 11) Change Raspberry settings via **Raspi-Config**. Type: 'sudo raspi-config'.
 
   a. Change Localization settings to your country.
-  
-  ![raspi-localization](images/raspi-config_localization.png)
+   
+  <p align="center">
+    <img src="images/raspi-config_localization.png" width="500" height="160">
+  </p>
   
   b. Change Boot settings to "Desktop with autologin".
   
-  ![raspi-boot](images/raspi-config_boot.png)
+  <p align="center">
+    <img src="images/raspi-config_boot.png" width="500" height="160">
+  </p>
   
   c. Enter in advance settings and expand filesystem to the whole SD Card.
   
-  ![raspi-expand](images/raspi-config_expad.png)
+  <p align="center">
+    <img src="images/raspi-config_expad.png" width="500" height="160">
+  </p>
   
   d. Enter in network options and change "Hostname" to **RaspotifyCast".
   
