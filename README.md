@@ -1,6 +1,9 @@
 # RaspotifyCast
 
-![RaspotifyCast](images/RaspotifyCast.jpg)
+<p align="center">
+  <img src="images/RaspotifyCast.jpg">
+</p>
+
 
 ## Description
 This project shows the necessary process to use a **Raspberry PI 3** as a **ChromeCast** + **Spotify** client.
@@ -83,13 +86,17 @@ sudo apt-get dist-upgrade
 
 1) Go to **Google Play Store** and download [RaspiCast](https://play.google.com/store/apps/details?id=at.huber.raspicast&hl=es)
 
-![PlayStore](images/PlayStore_RaspiCast.png)
+<p align="center" width="360" height="640">
+  <img src="images/PlayStore_RaspiCast.png">
+</p>
 
 2) Open it.
 
 3) Go to Settings and set following parameters:
 
-![RaspiCast settings](images/RaspiCast_settings.png)
+<p align="center" width="360" height="640">
+  <img src="images/RaspiCast_settings.png">
+</p>
 
 4) You should be able to send content to your TV via RaspotifyCast!
 
